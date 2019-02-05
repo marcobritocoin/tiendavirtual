@@ -3,7 +3,7 @@
 
 ## Tienda virtual en PHP MVC POO
 
-Una tienda virtual sencilla en PHP MVC POO. [Accede a Tienda Virtual](http://brito.com.ve/laravel/public/)
+Una tienda virtual sencilla en PHP MVC POO. [Accede a Tienda Virtual](http://brito.com.ve/tiendavirtual/)
 
 <br/>
 Ing. Marco Brito :.<br/>
